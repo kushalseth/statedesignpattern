@@ -1,0 +1,18 @@
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.exe.config
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.exe
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.pdb
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csprojAssemblyReference.cache
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\UI\EntryPage.g.cs
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\UI\MainWindow.g.cs
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\UI\StatusPage.g.cs
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\App.g.cs
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.cache
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.lref
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\UI\EntryPage.baml
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\UI\MainWindow.baml
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\UI\StatusPage.baml
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.g.resources
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\State_Design_Pattern.Properties.Resources.resources
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.GenerateResource.cache
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.exe
+E:\Personal Data\GIT_personal\statedesignpattern\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.pdb
